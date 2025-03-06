@@ -19,9 +19,11 @@ O jogo permite adicionar nomes, realizar o sorteio e mostrar o resultado.
 ## Estrutura do código
 
 index.html
+
 O arquivo HTML básico onde a interface é criada. Contém campos para adicionar os participantes e botões para realizar as ações.
 
 style.css
+
 O arquivo para estilização da pagina.
 
 script.js
