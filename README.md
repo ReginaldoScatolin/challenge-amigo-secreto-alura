@@ -30,4 +30,4 @@ O código JavaScript que realiza as principais funções.
 
 ## Autor
 
--[@ReginaldoScatolin](https://github.com/ReginaldoScatolin)
+[@ReginaldoScatolin](https://github.com/ReginaldoScatolin)
